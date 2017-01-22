@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\kpitefzp63\алгоритмы и структуры данных\result\1\reverse_recursion\reverse_recursion\source.cpp(26): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\kpitefzp63\алгоритмы и структуры данных\result\1\reverse_recursion\reverse_recursion\source.cpp(48): warning C4715: recursion_2: значение возвращается не при всех путях выполнения
+c:\kpitefzp63\алгоритмы и структуры данных\result\1\reverse_recursion\reverse_recursion\source.cpp(39): warning C4715: recursion: значение возвращается не при всех путях выполнения
+  reverse_recursion.vcxproj -> C:\kpitefzp63\Алгоритмы и структуры данных\result\1\reverse_recursion\Debug\reverse_recursion.exe
+  reverse_recursion.vcxproj -> C:\kpitefzp63\Алгоритмы и структуры данных\result\1\reverse_recursion\Debug\reverse_recursion.pdb (Full PDB)
